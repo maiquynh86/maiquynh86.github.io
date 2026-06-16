@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minh Tam Tran's Homepage"
+title                    : "Thu Quynh Mai's Homepage"
 title_separator          : "-"
-name                     : &name "Minh Tam Tran"
+name                     : &name "Thu Quynh Mai"
 description              : &description "personal description"
-url                      : https://mathnimnart.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://maiquynh86.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mathnimnart/mathnimnart.github.io"
+repository               : "maiquynh86/maiquynh86.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minh Tam Tran (Minh Tâm Trần)"
+  name             : "Thu Quynh Mai (Thu Quỳnh Mai)"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor at NEOMA Business School"
   location         : "Paris, France"
