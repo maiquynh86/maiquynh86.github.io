@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Thu Quynh Mai (Thu Quỳnh Mai)"
-  avatar           : ""
+  #avatar           : ""
   bio              : "PhD Candidate at ESCP Business School"
   location         : "Paris, France"
   employer         :
