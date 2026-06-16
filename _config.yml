@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Thu Quynh Mai (Thu Quỳnh Mai)"
-  avatar           : "profile.jpg"
-  bio              : "Assistant Professor at NEOMA Business School"
+  avatar           : #"profile.jpg"
+  bio              : "PhD Candidate at ESCP Business School"
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=pS-8YlQAAAAJ&hl=en"
-  email            : "minh-tam.tran@neoma-bs.fr"
+  googlescholar    : #"https://scholar.google.com/citations?user=pS-8YlQAAAAJ&hl=en"
+  email            : "thu_quynh.mai@edu.escp.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "mathnimnart"
+  github           : "maiquynh86"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "minh-tam-tran"
-  orcid            : "http://orcid.org/0000-0002-7496-9215"
+  linkedin         : "thu-quynh-mai"
+  orcid            : #"http://orcid.org/0000-0002-7496-9215"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
